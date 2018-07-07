@@ -1,0 +1,37 @@
+html{
+  background-color: #ddd;
+}
+.main{
+  background-color: white;
+  width: 63%;
+  margin-left: auto;
+  margin-right: auto;
+  box-shadow: 3px 3px 3px #ddd;
+  border: 1px solid #ddd;
+}
+header {
+  font-size: 43px;
+  font-weight: bold;
+  font-family:inherit;
+  font-style:oblique;
+  margin: 3%;
+  padding: 5% 3% 0 5%;
+}
+.sub{
+  display: flex;
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+img{
+  width: 333px;
+  height: 433px
+}
+.sub1{
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+}
+p{
+  font-size: 20px;
+}
